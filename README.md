@@ -15,3 +15,8 @@
 第三天阅读： [Vue.js的设计思路](https://cli.vuejs.org/config/).
 
 ## 第二篇 相应系统
+
+[第5章非原始的响应式方案之如何代理Object](https://cli.vuejs.org/config/).
+
+密匙
+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

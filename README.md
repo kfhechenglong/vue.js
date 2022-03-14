@@ -1,24 +1,17 @@
-# hello-vue3ts
+# Vue.js设计与实现
 
-## Project setup
-```
-yarn install
-```
+## 初衷
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+也是听说作为vue官方团队成员之一的霍春阳编写了关于对Vue.js源码的设计理念及背后实现细节进行的一本书，特在该书发行之初就购买拜读；
 
-### Compiles and minifies for production
-```
-yarn build
-```
+该书共分为6篇，共18章内容；
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 第一篇 框架设计概览
+第一天阅读： [权衡的艺术](https://cli.vuejs.org/config/).
+
+第二天阅读： [框架设计的核心要素](https://cli.vuejs.org/config/).
+
+第三天阅读： [Vue.js的设计思路](https://cli.vuejs.org/config/).
+
+## 第二篇 相应系统
